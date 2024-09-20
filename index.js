@@ -14,3 +14,4 @@ client.command({
 });
 
 client.loadCommands("./commands");
+console.log('Bot online!');
